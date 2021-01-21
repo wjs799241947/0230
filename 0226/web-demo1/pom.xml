@@ -22,7 +22,7 @@
         <jsp-api.version>2.2</jsp-api.version>
         <jstl.version>1.2</jstl.version>
 
-        <jackson.version>2.9.8</jackson.version>
+        <jackson.version>2.9.10.7</jackson.version>
 
     </properties>
 
